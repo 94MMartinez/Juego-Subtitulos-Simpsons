@@ -1,0 +1,26 @@
+TAMANNO_LETRA = 20
+TAMANNO_LETRA_GRANDE = 40
+Menuletra = 50
+FPS_inicial = 3
+TIEMPO_MAX = 66
+N=3
+
+white=(255, 255, 255)
+black=(0, 0, 0)
+gray=(50, 50, 50)
+red=(255, 0, 0)
+green=(0, 255, 0)
+blue=(0, 0, 255)
+yellow=(255, 255, 0)
+
+ANCHO = 800
+ALTO = 600
+COLOR_LETRAS = (0,0,0)
+COLOR_FONDO = (0,0,0)
+COLOR_TEXTO = (255,255,0)
+COLOR_TIEMPO_FINAL = (200,20,10)
+COLOR_PELI=(200,20,10)
+
+
+
+
